@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?Style=flat-squares&logo=JavaScript&logoColor=white">  
   <img src="https://img.shields.io/badge/MySQL-4479A1?Style=flat-squares&logo=MySQL&logoColor=white">
 </p>
-<br/><br/>
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonSBiN&show_icons=true&theme=radical)
 </div>
 
