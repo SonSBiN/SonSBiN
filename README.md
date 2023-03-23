@@ -1,7 +1,7 @@
 <div align = "center" >
   
   <div>
-    <h2> 
+    <h2> Experience </h2>
   </div>
   
 <p>
