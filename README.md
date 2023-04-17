@@ -17,7 +17,8 @@
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-squares&logo=c++&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?Style=flat-squares&logo=Java&logoColor=white">  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?Style=flat-squares&logo=JavaScript&logoColor=white">  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?Style=flat-squares&logo=MySQL&logoColor=white">  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?Style=flat-squares&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-#E34F26?Style=flat-squares&logo=html5&logoColor=white"> 
 </p>
 
 
