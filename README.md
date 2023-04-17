@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?Style=flat-squares&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?Style=flat-squares&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?Style=flat-squares&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?Style=flat-squares&logo=jQeury&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?Style=flat-squares&logo=jQuery&logoColor=white">
   
 </p>
 
